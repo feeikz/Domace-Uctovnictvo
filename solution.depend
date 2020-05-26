@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1546288916 source:c:\users\pc\desktop\zaj0098\solution\main.cpp
+	"main.h"
+
+1546123466 c:\users\pc\desktop\zaj0098\solution\main.h
+	<iostream>
+	<cstdio>
+	<string>
+	<fstream>
+	<algorithm>
+	<iomanip>
+	<stdlib.h>
+
